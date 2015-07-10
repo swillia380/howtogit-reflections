@@ -20,3 +20,7 @@ Allows editing/comparison of the last known state on your local computer and can
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 To collaborate without git or github I would probably use a file sharing service like dropbox.  There would be possible problems with simultaneous editing and the file history is not immediately visible.  However Dropbox automatically commits changes which could be easier for some applications.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It allows changes to be confirmed by collaborators before merging with main branch and the aforementioned advantages of using branches.
