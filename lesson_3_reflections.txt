@@ -17,3 +17,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Allows editing/comparison of the last known state on your local computer and can be used without internet access
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+To collaborate without git or github I would probably use a file sharing service like dropbox.  There would be possible problems with simultaneous editing and the file history is not immediately visible.  However Dropbox automatically commits changes which could be easier for some applications.
