@@ -12,3 +12,8 @@ Describe the differences between forks, clones, and branches. When would you use
 forks: a copy of another users git repository on github which cites the original author but allows the forker to make changes to the new copy; used to extend anothers work without editing their repository
 clones: a local copy of a git repository allowing making changes on local computer, can be pulled to and pushed from a github repository; used for locally editing files
 branches: new line of commits in the same repository; may be used for testing new features, experimental edits, or other changes
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Allows editing/comparison of the last known state on your local computer and can be used without internet access
+
