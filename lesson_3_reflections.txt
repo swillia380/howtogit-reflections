@@ -6,3 +6,9 @@ allows easy sharing and editing with other editors.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Automatically updating git could overwrite work currently being done in the local repository or make unexpected changes.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks: a copy of another users git repository on github which cites the original author but allows the forker to make changes to the new copy; used to extend anothers work without editing their repository
+clones: a local copy of a git repository allowing making changes on local computer, can be pulled to and pushed from a github repository; used for locally editing files
+branches: new line of commits in the same repository; may be used for testing new features, experimental edits, or other changes
