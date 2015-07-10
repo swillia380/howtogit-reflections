@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Remote repositories mitigate the risk of data loss, allow you to access/commit from multiple computers, 
+allows easy sharing and editing with other editors.
